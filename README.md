@@ -14,5 +14,10 @@ Visualization of Basketball data from kaggle.com
  (venv) $ pip install requirements.txt
 ```
 
-## Dataset
+### Start jupyter notebook
+```shell
+ (venv) $ jupyter notebook
+```
+
+## Dataset source
  - https://www.kaggle.com/ionaskel/nba-games-stats-from-2014-to-2018

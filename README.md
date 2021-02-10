@@ -1,5 +1,5 @@
 # data-science-study
-Visualization of Basketball data from kaggle.com
+Predicting a player's position
 
 ## Setup
 ### Virtual environment setup
@@ -20,4 +20,4 @@ Visualization of Basketball data from kaggle.com
 ```
 
 ## Dataset source
- - https://www.kaggle.com/ionaskel/nba-games-stats-from-2014-to-2018
+ - https://www.kaggle.com/drgilermo/nba-players-stats-20142015

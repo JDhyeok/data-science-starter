@@ -3,10 +3,11 @@ This is a repository that deals with a bunch of various data in order to become 
 
 ## Dpendencies
 - Matplotlib
-- Numpy
 - Seaborn
+- Numpy
 - Jupyter
 - Scipy
+- Pandas
 
 ## Setup
 ### Virtual environment setup

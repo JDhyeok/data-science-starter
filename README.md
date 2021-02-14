@@ -1,7 +1,7 @@
 # data-science-study
 This is a repository that deals with a bunch of various data in order to become familiar with data analysis and visualization
 
-## Dpendencies
+## Dependencies
 - Matplotlib
 - Seaborn
 - Numpy

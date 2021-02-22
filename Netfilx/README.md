@@ -3,6 +3,7 @@
 ## Dependencies
  - Gensim
  - Plotly
+ - nltk
 
 ## Visualization
  - referred to kaggle task : https://www.kaggle.com/shikhnu/data-analysis-and-visualization-netflix-data

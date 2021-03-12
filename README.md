@@ -32,3 +32,5 @@ This is a repository that deals with a bunch of various data in order to become 
  - https://www.kaggle.com/drgilermo/nba-players-stats-20142015
 ### Netfilx
  - https://www.kaggle.com/shivamb/netflix-shows
+### Covid19
+ - https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
